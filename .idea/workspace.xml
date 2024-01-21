@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c9eea7b-5115-4da3-94ed-649479c4a714" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/ContactScreenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pagesStepDefination/ValidateAndVerifyContactScreenStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testRunner/TestRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/Suite1/userSubmit.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/Suite2/addToCart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/Suite2/contactPageVerifyError.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/drivers/chromedriver.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2aqaZr9wS6QlPNnD4HffChucpLm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: addToCart.executor": "Run",
+    "Cucumber Java.Feature: error.executor": "Run",
+    "Cucumber Java.Scenario: Validate and Verify errors messages.executor": "Run",
+    "Cucumber Java.Scenario: Validate and Verify product and price.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven.jupitarplanit [clean].executor": "Run",
+    "Maven.jupitarplanit [compile].executor": "Run",
+    "Maven.jupitarplanit [test].executor": "Run",
+    "Maven.jupiterplanit [clean].executor": "Run",
+    "Maven.jupiterplanit [compile].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Talon/Desktop/jupitercloudproject/jupitarplanit/testng.xml.executor": "Run",
+    "TestNG.TestRun.executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Talon/Desktop/jupitercloudproject/jupitarplanit/src/test/Drivers",
+    "onboarding.tips.debug.path": "C:/Users/Talon/Desktop/jupitercloudproject/jupitarplanit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Talon\Desktop\jupitercloudproject\jupitarplanit\src\test\Drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Talon\Desktop\jupitercloudproject\jupitarplanit\src\main\resources\Features\Suite2" />
+      <recent name="C:\Users\Talon\Desktop\jupitercloudproject\jupitarplanit\src\main\resources\Features\Suite1" />
+      <recent name="C:\Users\Talon\Desktop\jupitercloudproject\jupitarplanit\src\test\Drivers" />
+      <recent name="C:\Users\Talon\Desktop\jupitercloudproject\jupitarplanit\src\main\java\Features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Talon/Desktop/jupitercloudproject/jupitarplanit/testng.xml">
+    <configuration name="Feature: addToCart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Features/addToCart.feature" />
+      <option name="GLUE" value="pagesStepDefination" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="jupiterplanit" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: addToCart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate and Verify product and price" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Features/addToCart.feature" />
+      <option name="GLUE" value="pagesStepDefination" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="jupiterplanit" />
+      <option name="NAME_FILTER" value="^Validate and Verify product and price$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate and Verify product and price$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate and Verify product and price" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Talon/Desktop/jupitercloudproject/jupitarplanit/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jupiterplanit" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jupiterplanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRun" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="jupiterplanit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Talon/Desktop/jupitercloudproject/jupitarplanit/testng.xml" />
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="TestNG.TestRun" />
+        <item itemvalue="Cucumber Java.Feature: addToCart" />
+        <item itemvalue="Cucumber Java.Scenario: Validate and Verify product and price" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-8336523bb0d9-93b19daf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c9eea7b-5115-4da3-94ed-649479c4a714" name="Changes" comment="" />
+      <created>1705048636589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705048636589</updated>
+    </task>
+    <servers />
+  </component>
+</project>
