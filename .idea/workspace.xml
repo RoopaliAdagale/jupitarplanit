@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9eea7b-5115-4da3-94ed-649479c4a714" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/ContactScreenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pagesStepDefination/ValidateAndVerifyContactScreenStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testRunner/TestRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testRunner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/Suite1/userSubmit.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/Suite2/addToCart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Features/Suite2/contactPageVerifyError.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/drivers/chromedriver.exe" afterDir="false" />
-    </list>
+    <list default="true" id="1c9eea7b-5115-4da3-94ed-649479c4a714" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
